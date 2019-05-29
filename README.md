@@ -52,6 +52,10 @@ In this section we will perform simple operations on images using OpenCV like op
 * [Open CV Using Jupyter notebooks](https://medium.com/p/5c27e521c19a#78b7)
 * [OpenCV Using Python Scripts](https://medium.com/p/5c27e521c19a#d1b5)
 * [Savings images](https://medium.com/p/5c27e521c19a#712d)
-Using Jupyter notebooks
-Using Python Scripts
-Savings images
+
+### Basic Operation on Images
+In this section, we will learn how we can draw various shapes on an existing image to get a flavour of working with OpenCV.
+
+* [Drawing on Images](https://medium.com/p/5c27e521c19a#7168)
+* [Functions & Attributes](https://medium.com/p/5c27e521c19a#65d5)
+* [Writing on Images](https://medium.com/p/5c27e521c19a#af53)
