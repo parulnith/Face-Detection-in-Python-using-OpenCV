@@ -24,4 +24,9 @@ Packages for standard desktop environments (Windows, macOS, almost any GNU/Linux
 run ```pip install opencv-python``` if you need only the main modules
 run ```pip install opencv-contrib-python``` if you need both main and contrib modules (check extra modules listing from [OpenCV documentation](https://docs.opencv.org/master/))
 
+## Table Of Contents
 
+* Images as Arrays
+* Images and OpenCV
+* Basic Operations on Images
+* Face Detection
