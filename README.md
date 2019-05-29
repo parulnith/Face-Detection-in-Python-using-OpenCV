@@ -10,4 +10,18 @@ This is the repository linked to the tutorial with the same name. The idea is to
 ## Blogpost
 [Face Detection with Python using OpenCV](https://levelup.gitconnected.com/face-detection-with-python-using-opencv-5c27e521c19a)
 
+## Installation
+OpenCV-Python supports all the leading platforms like Mac OS, Linux, and Windows. It can be installed in either of the following ways:
+
+**1. From pre-built binaries and source :**
+
+Please refer to the detailed documentation here for Windows and here for Mac.
+
+**2. [Unofficial pre-built OpenCV packages for Python](https://pypi.org/project/opencv-python/).**
+
+Packages for standard desktop environments (Windows, macOS, almost any GNU/Linux distribution)
+
+run ```pip install opencv-python``` if you need only the main modules
+run ```pip install opencv-contrib-python``` if you need both main and contrib modules (check extra modules listing from [OpenCV documentation](https://docs.opencv.org/master/))
+
 
