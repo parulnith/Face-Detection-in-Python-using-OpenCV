@@ -41,8 +41,8 @@ An image is nothing but a standard Numpy array containing pixels of data points.
 Naturally, more the number of bits/pixels , more possible colours in the images. The following table shows  the relationship more clearly. 
 
 Let us now have a look at the representation of the different kinds of images:
-1. ![Binary Image](https://levelup.gitconnected.com/face-detection-with-python-using-opencv-5c27e521c19a)
-2. !Grayscale image](https://levelup.gitconnected.com/face-detection-with-python-using-opencv-5c27e521c19a#74bf)
-3. !Coloured image](https://levelup.gitconnected.com/face-detection-with-python-using-opencv-5c27e521c19a#396c)
+1. [Binary Image](https://levelup.gitconnected.com/face-detection-with-python-using-opencv-5c27e521c19a)
+2. [Grayscale image](https://levelup.gitconnected.com/face-detection-with-python-using-opencv-5c27e521c19a#74bf)
+3. [Coloured image](https://levelup.gitconnected.com/face-detection-with-python-using-opencv-5c27e521c19a#396c)
 
 ### Images and OpenCV
