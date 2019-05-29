@@ -26,10 +26,10 @@ run ```pip install opencv-contrib-python``` if you need both main and contrib mo
 
 ## Table Of Contents
 
-* [Images as Arrays](Images as Arrays)
+* [Images as Arrays](#Images as Arrays)
 * [Images and OpenCV](#images-and-opencv)
-* Basic Operations on Images
-* Face Detection
+* [Basic Operations on Images](#basic-operation-on-images)
+* [Face Detection](#face-detection)
 
 
 ### Images as Arrays
@@ -46,3 +46,12 @@ Let us now have a look at the representation of the different kinds of images:
 3. [Coloured image](https://levelup.gitconnected.com/face-detection-with-python-using-opencv-5c27e521c19a#396c)
 
 ### Images and OpenCV
+In this section we will perform simple operations on images using OpenCV like opening images, drawing simple shapes on images and interacting with images through callbacks. This is necessary to create a foundation before we move towards the advanced stuff.
+
+* [Importing Images in OpenCV](https://medium.com/p/5c27e521c19a#cb1)
+* [Open CV Using Jupyter notebooks](https://medium.com/p/5c27e521c19a#78b7)
+* [OpenCV Using Python Scripts](https://medium.com/p/5c27e521c19a#d1b5)
+* [Savings images](https://medium.com/p/5c27e521c19a#712d)
+Using Jupyter notebooks
+Using Python Scripts
+Savings images
