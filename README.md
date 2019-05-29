@@ -26,7 +26,18 @@ run ```pip install opencv-contrib-python``` if you need both main and contrib mo
 
 ## Table Of Contents
 
-* Images as Arrays
+* [Images as Arrays](#images-as-arrays)
 * Images and OpenCV
 * Basic Operations on Images
 * Face Detection
+
+
+### Images as Arrays
+
+An image is nothing but a standard Numpy array containing pixels of data points. More the number of pixels in an image, the better is its resolution. You can think of pixels to be tiny blocks of information arranged in form a 2 D grid and the depth of a pixel refers to the colour information present in it. In order to be  processed by a computer, an image needs to be converted into a binary form. The colour of an image can be calculated as follows:
+
+      Number of colours/ shades = 2^bpp where bpp represents bits per pixel.
+
+Naturally, more the number of bits/pixels , more possible colours in the images. The following table shows  the relationship more clearly. 
+
+![](https://github.com/parulnith/Face-Detection-in-Python-using-OpenCV/blob/master/Images%20as%20Arrays/Bits%20per%20pixels.png)
