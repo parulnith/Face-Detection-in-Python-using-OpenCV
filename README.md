@@ -67,10 +67,10 @@ Face detection is a technique that identifies or locates human faces in digital 
 Face detection is performed by using classifiers. A classifier is essentially an algorithm that decides whether a given image is positive(face) or negative(not a face). A classifier needs to be trained on thousands of images with and without faces. Fortunately, OpenCV already has two pre-trained face detection classifiers, which can readily be used in a program. The two classifiers are:
 Haar Classifier and Local Binary Pattern(LBP) classifier.
 
-* [Haar feature-based cascade classifiers](https://medium.com/p/5c27e521c19a#4855)
+[Haar feature-based cascade classifiers](https://medium.com/p/5c27e521c19a#4855)
 * [1. 'Haar features' extraction](https://medium.com/p/5c27e521c19a#357a)
 * [2. 'Integral Images' concept](https://medium.com/p/5c27e521c19a#357a)
 * [3. 'Adaboost': to improve classifier accuracy](https://medium.com/p/5c27e521c19a#9391)
 * [4. Using 'Cascade of Classifiers'](https://medium.com/p/5c27e521c19a#93)
-* [Face Detection with OpenCV-Python](https://levelup.gitconnected.com/face-detection-with-python-using-opencv-5c27e521c19a#a843)
+[Face Detection with OpenCV-Python](https://levelup.gitconnected.com/face-detection-with-python-using-opencv-5c27e521c19a#a843)
 
